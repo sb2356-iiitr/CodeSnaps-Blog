@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@127.0.0.1/codesnap",
+    "prod_uri": "mysql://root:@127.0.0.1/codesnap",
+    "gh_url": "https://github.com/",
+    "gmail_uname": "soumyabb2356@gmail.com",
+    "gmail_pw": "sbtwewy@1402",
+    "blog_name": "CodeSnap",
+    "about_text": "Hi, my name is Soumya and I code and I am a good boy.",
+    "home_url": "/",
+    "about_url": "/about",
+    "contact_url": "/contact",
+    "post_url": "/post",
+    "no_of_posts": 5,
+    "admin_uname": "sb123",
+    "admin_pw": "IAmBatman",
+    "upload_location": "/home/soumya/PycharmProjects/pythonProject/static/"
+  }
+}

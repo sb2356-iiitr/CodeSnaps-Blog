@@ -1,2 +1,2 @@
-# CodeSnaps-Blog
-A bog made with the help of Flask and Bootstrap
+# Flask-Blog
+A simple blog made in Flask
